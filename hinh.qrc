@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image/1799791919.jpeg</file>
+    <file>image/iphone-14-pro-tim-thumb-600x600.jpg</file>
+    <file>image/hinh1.jpg</file>
+    <file>image/10051589-dien-thoai-oppo-reno7-z-5g-bac-1.jpg</file>
+  </qresource>
+</RCC>
